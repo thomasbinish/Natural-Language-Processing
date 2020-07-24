@@ -14,7 +14,7 @@ DLTK NLP allows you to analyze text to collect data from content such as ideas, 
 
 **Dependency Parser (dependency-parser)**: Dependency Parser represents the Grammatical Structure of the Sentence.
 
-**Try out DLTK NLP [Demo](https://dev.dltk.ai/nlp/).**
+## Try out DLTK NLP [Demo](https://dev.dltk.ai/nlp/).
 
 ## Motivation
 This Repository is created to showcase how Natural Language Processing is used to analyze text and get insights such as ideas, entities, key phrases, subgroups, feelings, emotions, relationships, textual norms, using the understanding of the natural language, and to identify specific entities and relationships in unstructured text.
