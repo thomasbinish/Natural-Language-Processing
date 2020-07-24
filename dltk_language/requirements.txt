@@ -4,7 +4,7 @@ chardet==3.0.4
 cssselect2==0.2.1
 cymem==2.0.2
 defusedxml==0.6.0
-Django==2.1
+Django==2.2.13
 idna==2.8
 jsonschema==2.6.0
 murmurhash==1.0.2
