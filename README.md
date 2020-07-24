@@ -37,30 +37,35 @@ This Repository is created to showcase how Natural Language Processing is used t
 4. Open command prompt/Terminal and run the django server 
 `python manage.py runserver`
 5. Start using the APIs listed below:
+
 **Sentiment API:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/sentiment/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "text":"DLTK is a good open source platform"
 }'`
+
 **Tags extraction API:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/tags/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "text":"DLTK is an open source platform"
 }'`
+
 **Named Entity Recognition API:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/ner/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "text":"For QubitAI Company, Shreeram Iyer is the CEO"
 }'`
+
 **Part-of-Speech Tagging:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/pos/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "text":"DLTK is an open source platform"
 }'`
+
 **Dependency Parser API:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/dependency-parser/svg/' \
 --header 'Content-Type: application/json' \
