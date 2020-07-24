@@ -14,4 +14,8 @@ Create DLTK client to perform different task.
 
 To use this services, one need to register to dltk [website](https://dev.dltk.ai/sign_up/) and create a project. Copy your API key to use different APIs.
 
+[![](https://github.com/SivaramVeluri15.png?size=50)](https://github.com/SivaramVeluri15)
 [![](https://github.com/vishnupeesapati.png?size=50)](https://github.com/vishnupeesapati)
+[![](https://github.com/EpuriHarika.png?size=50)](https://github.com/EpuriHarika/)
+[![](https://github.com/nageshsinghc4.png?size=50)](https://github.com/nageshsinghc4)
+[![](https://github.com/appareddyraja.png?size=50)](https://github.com/appareddyraja)
