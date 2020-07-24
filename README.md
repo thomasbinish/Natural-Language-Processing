@@ -33,7 +33,7 @@ This Repository is created to showcase how Natural Language Processing is used t
 2. Install all the required dependencies.
 `pip install requirements.txt` 
 3. Open command prompt/Terminal and run the django server 
-`python manage.py runserver`
+`python manage.py runserver 0.0.0.0:8189`
 4. Start using the APIs listed below:
 
 **Sentiment API:**
