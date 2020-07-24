@@ -1,0 +1,16 @@
+HTTP = "http://"
+COLON = ":"
+
+REGISTRY = False
+
+# eureka registry config
+MY_APPLICATION_NAME = "language-service"
+REG_PORT = "8189"
+HEARTBEAT_INTERVAL = 30
+F = "language-service/job/status"
+DISCOVERY_SERVICE_PORT = "8761"
+
+DISCOVERY_SERVICE_IP = "127.0.0.1"
+INSTANCE_IP = "127.0.0.1"
+DISCOVERY_SERVICE = HTTP + DISCOVERY_SERVICE_IP + COLON + DISCOVERY_SERVICE_PORT + "/eureka/apps/"
+
