@@ -32,11 +32,9 @@ This Repository is created to showcase how Natural Language Processing is used t
 1. Clone the repository
 2. Install all the required dependencies.
 `pip install requirements.txt` 
-3. Install Django
-`Pip install django==2.1`
-4. Open command prompt/Terminal and run the django server 
+3. Open command prompt/Terminal and run the django server 
 `python manage.py runserver`
-5. Start using the APIs listed below:
+4. Start using the APIs listed below:
 
 **Sentiment API:**
 `curl --location --request POST 'http://0.0.0.0:8189/dltk-language/nlp/sentiment/' \
