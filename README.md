@@ -5,6 +5,7 @@ DLTK NLP allows you to analyze text to collect data from content such as ideas, 
 ### Features provided
 
 **Sentiment Analysis (sentiment)** : Analyses the sentiments of the text and categorise them as  positive, negative neutral or sentiment.
+
 **Tags (tags)**: For extracting keywords from a paragraph.
 **NER Tagger (ner)**: Locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 **POS Tagger (pos)**: labelling each word in a sentence with its appropriate part of speech(eg. Noun, Adjectives, Adverbs etc).
