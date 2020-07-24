@@ -89,12 +89,12 @@ Steps:
 2. Go to the path where docker-compose.yml is placed.
 3. Run the command to start the container `sudo docker-compose up -d`
 4. Now check the containers `sudo docker ps`
-Include images from doc.
+![docker-output](https://github.com/dltk-ai/Natural-Language-Processing/blob/master/docker.png)
 5. Execute the CURL Command mentioned in option-1
 6. Run the command to stop the container `sudo docker-compose down`
 
 ## Lead Maintainer
-
+[![](https://github.com/shreeramiyer.png?size=50)](https://github.com/shreeramiyer)
 ## Core Mainteiners
 [![](https://github.com/dltk-ai.png?size=50)](https://github.com/dltk-ai)
 ## Core Contributers 
