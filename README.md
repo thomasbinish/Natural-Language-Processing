@@ -98,6 +98,7 @@ Include images from doc.
 ## Core Mainteiners
 [![](https://github.com/dltk-ai.png?size=50)](https://github.com/dltk-ai)
 ## Core Contributers 
+[![](https://github.com/GHub4Naveen.png?size=50)](https://github.com/GHub4Naveen)
 [![](https://github.com/SivaramVeluri15.png?size=50)](https://github.com/SivaramVeluri15)
 [![](https://github.com/vishnupeesapati.png?size=50)](https://github.com/vishnupeesapati)
 [![](https://github.com/EpuriHarika.png?size=50)](https://github.com/EpuriHarika/)
