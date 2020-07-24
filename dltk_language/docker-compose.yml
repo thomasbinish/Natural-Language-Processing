@@ -1,0 +1,12 @@
+version: "3"
+services:
+  language-core:
+    build: .
+    image: "dltk-language-core"
+    container_name: dltk-language-core
+    command: >
+      sh -c "python manage.py migrate &
+             python manage.py runserver 0.0.0.0:8189 --noreload"
+    restart: always
+    ports:
+      - "8189:8189"
