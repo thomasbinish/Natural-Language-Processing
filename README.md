@@ -21,7 +21,9 @@ This Repository is created to showcase how Natural Language Processing is used t
 
 ## Frameworks/Tech stack used
 [Django](https://www.djangoproject.com/) : Python-based open-source web framework that follows the model-view-template (MVC) architectural pattern.
+
 [NLTK](https://www.nltk.org/): Leading open-source platform for natural language processing.
+
 [SpaCy](https://spacy.io/): Open-source software library for advanced natural language processing.
 
 ## How to use?
