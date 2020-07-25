@@ -92,6 +92,7 @@ Steps:
 6. Run the command to stop the container `sudo docker-compose down`
 
 
+
 ## Founding Members
 [![](https://github.com/shreeramiyer.png?size=50)](https://github.com/shreeramiyer)
 
@@ -105,5 +106,6 @@ Steps:
 [![](https://github.com/EpuriHarika.png?size=50)](https://github.com/EpuriHarika/)
 [![](https://github.com/nageshsinghc4.png?size=50)](https://github.com/nageshsinghc4)
 [![](https://github.com/appareddyraja.png?size=50)](https://github.com/appareddyraja)
+[![](https://github.com/shakeeldhada.png?size=50)](https://github.com/shakeeldhada)
 
 ## License
